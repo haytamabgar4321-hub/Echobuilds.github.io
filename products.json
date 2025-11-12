@@ -1,0 +1,122 @@
+[
+  {
+    "category": "IEMs",
+    "products": [
+      {
+        "id": "iem1",
+        "title": "KZ EDX Pro (with Mic)",
+        "price": 200,
+        "sale_price": 150,
+        "currency": "MAD",
+        "description": "High-quality in-ear monitor with a clear sound profile and built-in mic.",
+        "image": "images/iem-kz-edx-pro.jpg",
+        "in_stock": 10
+      },
+      {
+        "id": "iem2",
+        "title": "KZ Castros",
+        "price": 300,
+        "currency": "MAD",
+        "description": "Premium KZ Castros IEM with enhanced bass and sound clarity.",
+        "image": "images/iem-kz-castros.jpg",
+        "in_stock": 10
+      },
+      {
+        "id": "iem3",
+        "title": "KZ ZSN Pro (with Mic)",
+        "price": 250,
+        "currency": "MAD",
+        "description": "Dual-driver IEM with excellent soundstage and mic for gaming or calls.",
+        "image": "images/iem-kz-zsn-pro.jpg",
+        "in_stock": 10
+      }
+    ]
+  },
+  {
+    "category": "Mice",
+    "products": [
+      {
+        "id": "mouse1",
+        "title": "Attack Shark X11",
+        "price": 400,
+        "currency": "MAD",
+        "description": "Wireless gaming mouse with charging dock and RGB lighting.",
+        "image": "images/mouse-x11.jpg",
+        "in_stock": 10
+      },
+      {
+        "id": "mouse2",
+        "title": "Attack Shark X3",
+        "price": 500,
+        "currency": "MAD",
+        "description": "High-performance gaming mouse with ergonomic design.",
+        "image": "images/mouse-x3.jpg",
+        "in_stock": 10
+      }
+    ]
+  },
+  {
+    "category": "Keyboards",
+    "products": [
+      {
+        "id": "key1",
+        "title": "Attack Shark X68-HE",
+        "price": 550,
+        "currency": "MAD",
+        "description": "Magnetic mechanical keyboard with hot-swappable switches and RGB.",
+        "image": "images/keyboard-x68-he.jpg",
+        "in_stock": 10
+      },
+      {
+        "id": "key2",
+        "title": "AJAZZ AK-A20",
+        "price": 400,
+        "currency": "MAD",
+        "description": "Compact 75% mechanical keyboard with smooth key travel.",
+        "image": "images/keyboard-ak-a20.jpg",
+        "in_stock": 10
+      },
+      {
+        "id": "key3",
+        "title": "AJAZZ AK-A20 Pro",
+        "price": 750,
+        "currency": "MAD",
+        "description": "Upgraded version of the A20 with improved build and wireless connectivity.",
+        "image": "images/keyboard-ak-a20-pro.jpg",
+        "in_stock": 10
+      }
+    ]
+  },
+  {
+    "category": "Headsets",
+    "products": [
+      {
+        "id": "headset1",
+        "title": "Attack Shark L80 Pro",
+        "price": 450,
+        "currency": "MAD",
+        "description": "Comfortable over-ear gaming headset with surround sound and RGB lighting.",
+        "image": "images/headset-l80-pro.jpg",
+        "in_stock": 10
+      }
+    ]
+  },
+  {
+    "category": "Accessories",
+    "products": [
+      {
+        "id": "acc1",
+        "title": "C01 Ultra Coiled Cable",
+        "price": 200,
+        "currency": "MAD",
+        "description": "Premium detachable coiled cable compatible with mechanical keyboards.",
+        "image": "images/accessory-c01-coiled.jpg",
+        "in_stock": 10
+      }
+    ]
+  },
+  {
+    "category": "Mousepads",
+    "products": []
+  }
+]
