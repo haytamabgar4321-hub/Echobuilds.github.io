@@ -29,7 +29,7 @@ async function renderStore() {
 
 function orderNow(productName) {
   const msg = encodeURIComponent(`Hello! I want to order: ${productName}`);
-  const phone = "YOUR_PHONE_NUMBER"; // Example: 212600000000
+  const phone =  212616104032"; // Example: 212600000000
   window.open(`https://wa.me/${phone}?text=${msg}`, "_blank");
 }
 
